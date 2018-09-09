@@ -4,6 +4,6 @@ echo "Starting Hello World..."
 sleep 10
 
 while :;do
-  echo "$(date): Hello world!"
+  echo "Hello world!"
   sleep 10
 done
